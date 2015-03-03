@@ -1,21 +1,36 @@
 # LLJS
 This Project is indended to help write any code in ECMAScript
 
-## JS->R
+##Example
+``` Javascript
+"R"
+var hello = function(){
+  print("hello world");
+}
+```
+is translated to
+``` R
+hello <- function (){
+  print("hello world")
+}
+```
+
+## Languages
+### JS->R
 TODO
 
-## JS->Swift
+### JS->Swift
 TODO
 
-## JS->Python
+### JS->Python
 TODO
 
-## JS->Ruby
+### JS->Ruby
 TODO
 
-## JS->PHP
+### JS->PHP
 TODO
 
-## JS->C++
+### JS->C++
 TODO
 
