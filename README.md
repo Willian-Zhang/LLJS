@@ -16,10 +16,13 @@ hello <- function (){
 ```
 
 ## Languages
+### JS<->Java
+TODO
+
 ### JS->R
 TODO
 
-### JS->Swift
+### JS<->Swift
 TODO
 
 ### JS->Python
@@ -28,8 +31,8 @@ TODO
 ### JS->Ruby
 TODO
 
-### JS->PHP
+### JS<->PHP
 TODO
 
-### JS->C++
+### JS<->C++
 TODO
